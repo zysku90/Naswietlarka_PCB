@@ -2,13 +2,7 @@
  * main.c
  *
  *  Created on: 24 sty 2016
- *      Author: Michal
- */
-/*
- * main.c
- *
- *  Created on: 24 sty 2016
- *      Author: Michal
+ *      Author: Michal Zyskowski
  */
 
 #include <avr/io.h>
